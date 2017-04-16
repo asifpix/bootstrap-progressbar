@@ -1,0 +1,15 @@
+.progress {
+	&.flat {
+		box-shadow: none;
+		.progress-bar {
+			box-shadow: none;
+		}
+	}
+
+	&.square {
+		border-radius: 0;
+		.progress-bar {
+			border-radius: 0;
+		}
+	}
+}

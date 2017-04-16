@@ -1,0 +1,15 @@
+.progress.flat {
+  box-shadow: none;
+}
+
+.progress.flat .progress-bar {
+  box-shadow: none;
+}
+
+.progress.square {
+  border-radius: 0;
+}
+
+.progress.square .progress-bar {
+  border-radius: 0;
+}
